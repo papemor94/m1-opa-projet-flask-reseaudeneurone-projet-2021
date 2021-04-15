@@ -1,0 +1,3 @@
+batimentid , salleid , ssid , level 
+1, 1, FreeWifi_secure,-77 
+

@@ -1,0 +1,77 @@
+batimentid , salleid , ssid , level 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+1, 1, SmartCampus,-68 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+1, 1, SmartCampus,-68 
+1, 1, SmartCampus,-65 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+1, 1, SmartCampus,-68 
+1, 1, SmartCampus,-65 
+1, 1, CampusVideo,-88 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+1, 1, SmartCampus,-68 
+1, 1, SmartCampus,-65 
+1, 1, CampusVideo,-88 
+1, 1, SmartCampus,-87 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+1, 1, SmartCampus,-68 
+1, 1, SmartCampus,-65 
+1, 1, CampusVideo,-88 
+1, 1, SmartCampus,-87 
+1, 1, Bbox-275FB2C0,-92 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+1, 1, SmartCampus,-68 
+1, 1, SmartCampus,-65 
+1, 1, CampusVideo,-88 
+1, 1, SmartCampus,-87 
+1, 1, Bbox-275FB2C0,-92 
+1, 1, Bbox-5D3A4006,-91 
+
+1, 1, FreeWifi_secure,-77 
+1, 1, freebox_VNBCLJ,-79 
+1, 1, SFR_C6D8_5GHZ,-89 
+1, 1, CampusVideo,-70 
+1, 1, SmartCampus,-68 
+1, 1, SmartCampus,-65 
+1, 1, CampusVideo,-88 
+1, 1, SmartCampus,-87 
+1, 1, Bbox-275FB2C0,-92 
+1, 1, Bbox-5D3A4006,-91 
+1, 1, SFR_C6D8,-85 
+
