@@ -91,8 +91,6 @@ def threat_input(dataset , X_input):
 # In[5]:
 
 
-get_ipython().system(' conda install flask --yes')
-
 
 # In[6]:
 
