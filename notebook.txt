@@ -1,0 +1,1 @@
+docker run --name jupyterdatascienc      --volume C:\m1-opa-projet-flask-reseaudeneurone-projet-2021:/home/jovyan/work        -p 9000:8888 -p 6000:5000 jupyter/datascience-notebook:r-4.0.3
