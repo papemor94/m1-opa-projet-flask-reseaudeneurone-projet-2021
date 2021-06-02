@@ -9,4 +9,4 @@ RUN pip install --no-cache-dir --upgrade pip && \
 
 COPY . .
 
-CMD [ "python", "./model-randomForest.py"]
+CMD [ "python", "./verion_2_serverflask.py"]
